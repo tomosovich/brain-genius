@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703100163283,
+      "tag": "0000_nappy_chamber",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703101259169,
+      "tag": "0001_last_zodiak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703103843972,
+      "tag": "0002_careful_northstar",
+      "breakpoints": true
+    }
+  ]
+}
